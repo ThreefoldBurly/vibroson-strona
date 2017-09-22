@@ -39,10 +39,11 @@ body {
   /* Set the fixed height of the footer here */
   height: 60px;
   background-color: #f5f5f5;
+  overflow: hidden;
 }
 
 .container .text-muted {
-  margin: 3% 0;
+  margin: 23px 0;
   font-size: 0.8em;
 }
 
