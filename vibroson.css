@@ -43,7 +43,8 @@ body {
 }
 
 .container .text-muted {
-  margin: 23px 0;
+  margin: auto 0;
+  padding: 3% 0;
   font-size: 0.8em;
 }
 
@@ -52,7 +53,7 @@ body {
 }
 
 .footer p span {
-  margin: auto 2em;
+  margin: auto 1.5%;
 }
 
 .footer a {
